@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/dashboardFragment">
+
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.example.railmadad.frags.dashboardFragment"
+        android:label="fragment_dashbord"
+        tools:layout="@layout/fragment_dashbord" >
+        <action
+            android:id="@+id/action_dashboardFragment_to_trackComplaint"
+            app:destination="@id/trackComplaint" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_helpFragment"
+            app:destination="@id/helpFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/helpFragment"
+        android:name="com.example.railmadad.frags.helpFragment"
+        android:label="fragment_help"
+        tools:layout="@layout/fragment_help" />
+    <fragment
+        android:id="@+id/moreFragment"
+        android:name="com.example.railmadad.frags.moreFragment"
+        android:label="fragment_more"
+        tools:layout="@layout/fragment_more" />
+    <fragment
+        android:id="@+id/trackComplaint"
+        android:name="com.example.railmadad.frags.updateFragment"
+        android:label="fragment_track_complaint"
+        tools:layout="@layout/fragment_update" />
+</navigation>

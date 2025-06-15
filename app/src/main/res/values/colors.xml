@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+<!--    <color name="colorPrimary">#1976D2</color>-->
+<!--    <color name="colorPrimaryDark">#1565C0</color>-->
+<!--    <color name="colorAccent">#2196F3</color>-->
+<!--    <color name="colorLightPrimary">#E3F2FD</color>-->
+<!--    <color name="colorBackground">#F5F5F5</color>-->
+<!--    <color name="colorPrimaryText">#FF000000</color>-->
+<!--    <color name="colorSecondaryText">#757575</color>-->
+<!--    <color name="colorDivider">#EEEEEE</color>-->
+<!--    <color name="colorSuccess">#4CAF50</color>-->
+<!--    <color name="colorWarning">#FFC107</color>-->
+<!--    <color name="colorError">#F44336</color>-->
+<!--    <color name="colorMessageBackground">#FFFFFF</color>-->
+<!--    <color name="colorChipBackground">#E0E0E0</color>-->
+<!--    <color name="gray">#757575</color>-->
+<!--    <color name="gray_light">#AAAAAA</color>-->
+<!--    <color name="colorProgressTrack">#E0E0E0</color>-->
+<!--    <color name="nav_indicator">#fdd2d2</color>-->
+<!--    &lt;!&ndash; Primary Colors &ndash;&gt;-->
+<!--    <color name="primary_blue">#2196F3</color>-->
+<!--    <color name="primary_blue_dark">#1976D2</color>-->
+<!--    <color name="accent_blue">#1976D1</color>-->
+
+<!--    &lt;!&ndash; Background Colors &ndash;&gt;-->
+<!--    <color name="background_light">#F5F5F5</color>-->
+<!--    <color name="background_white">#FFFFFFFF</color>-->
+<!--    <color name="background_primary">#F8F9FA</color>-->
+<!--    <color name="surface_primary">#FFFFFFFF</color>-->
+<!--    <color name="surface_secondary">#F5F5F5</color>-->
+<!--    <color name="card_background">#FFFFFFFF</color>-->
+
+<!--    &lt;!&ndash; Text Colors &ndash;&gt;-->
+<!--    <color name="text_primary">#FF000000</color>-->
+<!--    <color name="text_secondary">#757575</color>-->
+<!--    <color name="text_hint">#BDBDBD</color>-->
+
+<!--    &lt;!&ndash; Icon Colors &ndash;&gt;-->
+<!--    <color name="icon_primary">#C41E3A</color>-->
+<!--    <color name="icon_secondary">#9E9E9E</color>-->
+
+<!--    &lt;!&ndash; Error Colors &ndash;&gt;-->
+<!--    <color name="error_color">#F44336</color>-->
+<!--    <color name="error_light">#FFEBEE</color>-->
+
+<!--    &lt;!&ndash; Switch Colors &ndash;&gt;-->
+<!--    <color name="switch_thumb_checked">#2196F3</color>-->
+<!--    <color name="switch_track_checked">#81C784</color>-->
+<!--    <color name="switch_thumb_unchecked">#FAFAFA</color>-->
+<!--    <color name="switch_track_unchecked">#E0E0E0</color>-->
+
+<!--    &lt;!&ndash; Shadow and Border &ndash;&gt;-->
+<!--    <color name="shadow_light">#1A000000</color>-->
+<!--    <color name="border_light">#E0E0E0</color>-->
+
+<!--    &lt;!&ndash; Transparent &ndash;&gt;-->
+<!--    <color name="transparent">#00000000</color>-->
+<!--    &lt;!&ndash; Card Background Colors &ndash;&gt;-->
+<!--    <color name="card_background_light">#FAFAFA</color>-->
+<!--    <color name="card_stroke">#E0E0E0</color>-->
+
+<!--    <color name="primary_dark_red">#D22B2B</color>-->
+</resources>

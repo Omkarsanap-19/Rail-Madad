@@ -1,0 +1,94 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RailMadad" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#D22B2B</item>
+        <item name="colorPrimaryVariant">#C41E3A</item>
+        <item name="colorOnPrimary">#202020</item>
+
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#1976D2</item>
+        <item name="colorOnSecondary">#FFFFFFFF</item>
+        <item name="colorSecondaryContainer">@color/nav_indicator</item>
+
+        <!-- Background and surface -->
+        <item name="android:windowBackground">#FFFFFFFF</item>
+        <item name="colorOnBackground">#1E1E1E</item>
+
+        <item name="textFillColor">@color/white</item>
+
+    </style>
+
+    <color name="colorPrimaryDark">#1E88E5</color>
+    <color name="colorAccent">#64B5F6</color>
+    <color name="colorLightPrimary">#1A237E</color>
+    <color name="colorBackground">#121212</color>
+    <color name="colorPrimaryText">#FFFFFF</color>
+    <color name="colorSecondaryText">#B0B0B0</color>
+    <color name="colorDivider">#2A2A2A</color>
+    <color name="colorSuccess">#66BB6A</color>
+    <color name="colorWarning">#FFD54F</color>
+    <color name="colorError">#EF5350</color>
+    <color name="colorMessageBackground">#1E1E1E</color>
+    <color name="colorChipBackground">#2C2C2C</color>
+    <color name="gray">#B0B0B0</color>
+    <color name="gray_light">#757575</color>
+    <color name="colorProgressTrack">#2C2C2C</color>
+    <color name="nav_indicator">#3d2020</color>
+
+    <!-- Primary Colors -->
+    <color name="primary_blue">#64B5F6</color>
+    <color name="primary_blue_dark">#42A5F5</color>
+    <color name="accent_blue">#42A5F5</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#121212</color>
+    <color name="background_white">#1E1E1E</color>
+    <color name="background_primary">#0F0F0F</color>
+    <color name="surface_primary">#1E1E1E</color>
+    <color name="surface_secondary">#2C2C2C</color>
+    <color name="card_background">#282828</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_hint">#757575</color>
+
+    <!-- Icon Colors -->
+    <color name="icon_primary">#FF6B6B</color>
+    <color name="icon_secondary">#757575</color>
+
+    <!-- Error Colors -->
+    <color name="error_color">#EF5350</color>
+    <color name="error_light">#2C1B1B</color>
+
+    <!-- Switch Colors -->
+    <color name="switch_thumb_checked">#64B5F6</color>
+    <color name="switch_track_checked">#4CAF50</color>
+    <color name="switch_thumb_unchecked">#424242</color>
+    <color name="switch_track_unchecked">#2C2C2C</color>
+
+    <!-- Shadow and Border -->
+    <color name="shadow_light">#40000000</color>
+    <color name="border_light">#2C2C2C</color>
+
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+
+    <!-- Card Background Colors -->
+    <color name="card_background_light">#2C2C2C</color>
+    <color name="card_stroke">#3A3A3A</color>
+
+    <color name="primary_dark_red">#FF6B6B</color>
+
+    <color name="spinner_stroke">#49454f</color>
+
+    <color name="security_card">#161A21</color>
+    <color name="blueCard_text">#FFFFFFFF</color>
+    <color name="feed_tittle">#B0B0B0</color>
+    <color name="feedback_stroke">#4A3D4F</color>
+
+</resources>

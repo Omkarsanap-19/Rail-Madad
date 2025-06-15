@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboardFragment"
+        android:icon="@drawable/layout"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/trackComplaint"
+        android:icon="@drawable/bell"
+        android:title="Update" />
+    <item
+        android:id="@+id/helpFragment"
+        android:icon="@drawable/help"
+        android:title="Help" />
+    <item
+        android:id="@+id/moreFragment"
+        android:icon="@drawable/settings"
+        android:title="Settings" />
+</menu>

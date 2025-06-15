@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Rail Madad</string>
+    <string name="tagline">AI-Powered Complaint Resolution</string>
+    <!--  Login Screen  -->
+    <string name="username_or_pnr">Username or PNR Number</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="new_user_register">New User? Register</string>
+    <string name="file_complaint_as_guest">File Complaint as Guest</string>
+    <string name="app_logo">App Logo</string>
+    <!--  Dashboard  -->
+    <string name="dashboard">Dashboard</string>
+    <string name="welcome_user">Welcome, User!</string>
+    <string name="ai_powered_complaint_system">Our AI-powered system helps resolve your complaints faster and more efficiently.</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="new_complaint">New Complaint</string>
+    <string name="track_complaint">Track Complaint</string>
+    <string name="ai_assistant">AI Assistant</string>
+    <string name="recent_complaints">Recent Complaints</string>
+    <string name="view_all">View All</string>
+    <string name="ai_insights">AI Insights</string>
+    <string name="complaint_resolution_stats">Complaint Resolution Stats</string>
+    <string name="total">Total</string>
+    <string name="resolved">Resolved</string>
+    <string name="pending">Pending</string>
+    <string name="ai_prediction">AI Prediction</string>
+    <string name="sample_ai_prediction">Based on current trends, we expect a 15% increase in cleanliness complaints during the upcoming holiday season.</string>
+    <string name="view_detailed_insights">View Detailed Insights</string>
+    <string name="view_details">View Details</string>
+    <!--  Complaint Item  -->
+    <string name="complaint_status">Status</string>
+    <!--  New Complaint  -->
+    <string name="journey_details">Journey Details</string>
+    <string name="pnr_number">PNR Number</string>
+    <string name="train_number">Train Number</string>
+    <string name="coach_number">Coach Number</string>
+    <string name="fetch_journey_details">Fetch Journey Details</string>
+    <string name="complaint_details">Complaint Details</string>
+    <string name="complaint_title">Complaint Title</string>
+    <string name="complaint_description">Complaint Description</string>
+    <string name="complaint_category">Complaint Category</string>
+    <string name="cleanliness">Cleanliness</string>
+    <string name="facilities">Facilities</string>
+    <string name="staff_behavior">Staff Behavior</string>
+    <string name="security">Security</string>
+    <string name="other">Other</string>
+    <string name="add_media_evidence">Add Media Evidence</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="record_video">Record Video</string>
+    <string name="record_audio">Record Audio</string>
+    <string name="attached_media">Attached Media</string>
+    <string name="media_type">Media Type</string>
+    <string name="remove_media">Remove Media</string>
+    <string name="ai_will_analyze_your_media">AI will analyze your media to categorize and prioritize your complaint</string>
+    <string name="ai_suggestion">AI Suggestion</string>
+    <string name="sample_ai_suggestion">Based on your uploaded image, this appears to be a cleanliness issue in the coach. Would you like me to categorize it as \"Cleanliness\" with high priority?</string>
+    <string name="accept">Accept</string>
+    <string name="ignore">Ignore</string>
+    <string name="submit_complaint">Submit Complaint</string>
+    <!--  Complaint Details  -->
+    <string name="complaint_details_title">Complaint Details</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="complaint_status_updates">Complaint Status Updates</string>
+    <string name="add_feedback">Add Feedback</string>
+    <string name="ai_analysis">AI Analysis</string>
+    <string name="sample_ai_analysis">Based on the image analysis, this is a cleanliness issue with medium severity. The AI has detected garbage and stains on the floor of the coach.</string>
+    <!--  AI Analysis  -->
+    <string name="media_analysis">Media Analysis</string>
+    <string name="ai_categorization">AI Categorization</string>
+    <string name="primary_category">Primary Category</string>
+    <string name="other_possible_categories">Other Possible Categories</string>
+    <string name="confidence_85">Confidence: 85%</string>
+    <string name="confidence_10">Confidence: 10%</string>
+    <string name="confidence_5">Confidence: 5%</string>
+    <string name="severity_assessment">Severity Assessment</string>
+    <string name="medium_severity">Medium Severity</string>
+    <string name="severity_explanation">This issue requires attention but is not critical. It should be addressed within the next 24 hours.</string>
+    <string name="ai_recommendation">AI Recommendation</string>
+    <string name="sample_ai_recommendation">Based on the analysis of the submitted media, this complaint should be forwarded to the Housekeeping Department for immediate action. The issue appears to be related to inadequate cleaning of the coach floor and under-seat areas.</string>
+    <string name="suggested_department">Suggested Department</string>
+    <string name="housekeeping_department">Housekeeping Department</string>
+    <string name="estimated_resolution_time">Estimated Resolution Time</string>
+    <string name="sample_estimated_time">Approximately 2-4 hours</string>
+    <!--  Media Analysis  -->
+    <string name="media_content">Media Content</string>
+    <string name="image">Image</string>
+    <string name="ai_detected_elements">AI Detected Elements</string>
+    <string name="garbage">Garbage</string>
+    <string name="dirty_floor">Dirty Floor</string>
+    <string name="stains">Stains</string>
+    <string name="text_extracted_ocr">Text Extracted (OCR)</string>
+    <string name="metadata">Metadata</string>
+    <string name="location">Location</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="play_media">Play Media</string>
+    <!--  Chatbot  -->
+    <string name="type_a_message">Type a message</string>
+    <string name="send_message">Send Message</string>
+    <string name="attach_media">Attach Media</string>
+    <string name="attachment">Attachment</string>
+    <string name="attachment_type">Attachment Type</string>
+    <string name="remove_attachment">Remove Attachment</string>
+    <string name="attachment_preview">Attachment Preview</string>
+    <string name="rail_madad_ai">Rail Madad AI</string>
+    <string name="clear_attachments">Clear Attachments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="client_id">869156813701-326efsflpp1di969hpfmbvbm13skc32p.apps.googleusercontent.com</string>
+</resources>
