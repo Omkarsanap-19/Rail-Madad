@@ -1,14 +1,16 @@
 # Rail Madad - AI-Powered Railway Complaint Resolution App
-Rail Madad is an AI-powered complaint resolution app designed to enhance the Indian Railways' complaint management system. By integrating Artificial Intelligence like image recognition, text extraction, and classification, prioritization, and routing of complaints—including those submitted via images, videos. This significantly reduces manual effort, speeds up resolution times, and improves overall user satisfaction for both passengers and railway administrators.
+Rail Madad is an AI-powered complaint resolution app that enhances the Indian Railways' grievance system. It uses AI for image recognition, text extraction, classification, prioritization, and smart routing — even for complaints submitted via images or videos. This significantly reduces manual effort, speeds up resolution times, and improves overall user satisfaction for both passengers and railway administrators.
 ## 📑 Table of Contents
 
-- [Features](#-features)
+- [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Setup and Installation](#-setup-and-installation)
-- [Usage](#-usage)
-- [Contributing](#-contributing)
+- [Setup and Installation](#setup-and-installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#-contact)
+- [Contact](#contact)
+
 
 
 ---
@@ -185,6 +187,37 @@ val generativeModel = GenerativeModel(
 - Update complaint statuses and notify users in real-time.
 - Access analytics for complaint trends, resolution performance, and heatmaps.
 - View feedback sentiment analysis for better planning.
+
+---
+
+## 📸 Screenshots
+
+<p float="left">
+    <img src="https://github.com/user-attachments/assets/37272b8b-01a7-443b-b564-e7ed599ce5d1" width="250" />
+  <img src="https://github.com/user-attachments/assets/ba265275-82e1-466a-ba81-ad7b12270326" width="250" />
+  <img src="https://github.com/user-attachments/assets/1395794b-63ff-4ac2-9617-c05bc9485cc2" width="250" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/3aa5d83b-88d4-4c3a-99e5-f1215493a278" width="250" />
+  <img src="https://github.com/user-attachments/assets/97b0c549-eb21-4f22-b09d-a7365e14300c" width="250" />
+  <img src="https://github.com/user-attachments/assets/c46cc429-b72d-40d9-be53-ab8c21cb01af" width="250" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/9967ba6c-8e3a-48f5-bec1-36d7d8888502" width="250" />
+  <img src="https://github.com/user-attachments/assets/23c12fb5-7a80-4d47-b2e3-4876a02f636a" width="250" />
+  <img src="https://github.com/user-attachments/assets/7358c206-2313-4fd3-9f86-aea3b9b86ed8" width="250" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/0e0fc5fd-9297-4198-919b-a20912ef7e6a" width="250" />
+  <img src="https://github.com/user-attachments/assets/65692d85-6b8c-4aa6-a0c2-3bcc582244f4" width="250" />
+  <img src="https://github.com/user-attachments/assets/b0401e62-b9a3-4154-8a0e-c555f3831c28" width="250" />
+</p>
+
+
+
 
 ---
 
