@@ -2,14 +2,14 @@
 Rail Madad is an AI-powered complaint resolution app that enhances the Indian Railways' grievance system. It uses AI for image recognition, text extraction, classification, prioritization, and smart routing — even for complaints submitted via images or videos. This significantly reduces manual effort, speeds up resolution times, and improves overall user satisfaction for both passengers and railway administrators.
 ## 📑 Table of Contents
 
-- [Features](#features)
+- [Features](#-features)
 - [Tech Stack](#tech-stack)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Setup and Installation](#-setup-and-installation)
+- [Usage](#-usage)
+- [Screenshots](#-screenshots)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#-contact)
 
 
 
